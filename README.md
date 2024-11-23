@@ -2,9 +2,8 @@
 <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" align="center" style="width: 100%" />
 </div>  
   
-## My Front-End Skills
-  
- I'm Kiarash, a full-time full-stack freelance developer 👨‍💻 working remotely since ---- 🚀  
+### Hey Guys 👋  
+### I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀  
   
 
 - 🔭 I’m currently working on [Google Service](https://google.com)  
