@@ -2,7 +2,7 @@
 <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" align="center" style="width: 100%" />
 </div>  
   
-### Hey Guys 👋  
+### Hey Guys... 👋  
 I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀  
   
 
