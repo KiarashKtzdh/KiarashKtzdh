@@ -53,9 +53,12 @@ I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remot
 <a href="https://www.youtube.com/user/KiarashKtzdh" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-  
 
-<br/>  
+</td></tr></table>
+
+<br/>
+
+</td><td valign="top" width="33%">
 
 
 ## Github Stats  
