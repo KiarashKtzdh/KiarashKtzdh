@@ -17,7 +17,7 @@ would like, there is more information on my personal websit 👨‍💻 or CV.
 - ❓ Ask me about anything related to Business Management.
   
 
-- ⚡ Daily fact: Experience L🌏VER🏃, WHY NOT…✨
+- ⚡ Daily fact: Experience L🌏VER🏃, WHY NOT…✨.
   
 
 <br/>  
