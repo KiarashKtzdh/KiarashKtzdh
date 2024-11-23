@@ -3,7 +3,6 @@
 </div>  
   
 ## My Front-End Skills
-<table><tr><td valign="top" width="33%">
   
 ### I'm Kiarash, a full-time full-stack freelance developer 👨‍💻 working remotely since ---- 🚀  
   
