@@ -5,7 +5,7 @@
 ### Hey Guys... 👋  
 I’m known as Kiarash Ktzdh. A self-taught person with INTJ-A personality type. I’m Interested in learning and
 creating new projects also teamwork and completing creative projects. If you
-would like, there is more information on my personal websit 👨‍💻.
+would like, there is more information on my personal websit 👨‍💻 or CV.
   
 
 - 🔭 I’m currently working on [Google Service](https://google.com)  
