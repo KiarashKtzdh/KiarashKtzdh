@@ -9,10 +9,10 @@ I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remot
 - 🔭 I’m currently working on [Google Service](https://google.com)  
   
 
-- 🌱 I’m currently learning React and React Native
+- 🌱 I’m currently learning React and React Native.
   
 
-- ❓ Ask me about anything related to Web Design
+- ❓ Ask me about anything related to Business Management.
   
 
 - ⚡ Fun fact: I use tabs over spaces  
