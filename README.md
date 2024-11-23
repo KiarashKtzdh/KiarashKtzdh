@@ -2,7 +2,9 @@
 <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" align="center" style="width: 100%" />
 </div>  
   
-
+## My Front-End Skills
+<table><tr><td valign="top" width="33%">
+  
 ### I'm Kiarash, a full-time full-stack freelance developer 👨‍💻 working remotely since ---- 🚀  
   
 
