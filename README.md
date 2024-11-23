@@ -37,13 +37,13 @@ would like, there is more information on my personal websit 👨‍💻 or Linke
 ## Connect with me  
 <table><tr><td valign="top" width="33%">
 
-<a href="https://medium.com/KiarashKtzdh" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-
 <a href="https://linkedin.com/in/KiarashKtzdh" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
+<a href="https://medium.com/KiarashKtzdh" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
 
 <a href="https://stackoverflow.com/users/KiarashKtzdh" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
