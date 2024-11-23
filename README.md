@@ -81,3 +81,5 @@ would like, there is more information on my personal websit 👨‍💻 or Linke
 <br/>  
 
 <br/>  
+
+[![](https://visitcount.itsvg.in/api?id=KiarashKtzdh&icon=0&color=0)](https://visitcount.itsvg.in)
