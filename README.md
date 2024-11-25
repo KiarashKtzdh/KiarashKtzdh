@@ -14,10 +14,10 @@ would like, there is more information on [My Personal Website](https://Katoueiza
 - 🌱 I’m currently learning React and React Native.
   
 
-- ❓ Ask me about anything related to Business Management.
+- ❓ Ask me about anything related to Business Development.
   
 
-- ⚡ Daily fact: Experience L🌏VER🏃, WHY NOT…✨.
+- ⚡ My daily fact and routine: Experience L🌏VER🏃, WHY NOT…✨.
   
 
 <br/>  
