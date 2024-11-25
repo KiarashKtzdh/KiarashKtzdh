@@ -8,7 +8,7 @@ creating new projects also teamwork and completing creative projects. If you
 would like, there is more information on [My Personal Website](https://Katoueizadeh.com/) or [Linkdin Account](https://linkedin.com/in/KiarashKtzdh/) 👨‍💻
   
 
-- 🔭 I’m currently working on [Reservation System](https://google.com) Project.
+- 🔭 I’m currently working on [Reservation System.](https://google.com)
   
 
 - 🌱 I’m currently learning React and React Native.
