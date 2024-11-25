@@ -14,7 +14,7 @@ would like, there is more information on [my personal website](https://Katoueiza
 - 🌱 I’m currently learning React and React Native.
   
 
-- ❓ Ask me about anything related to Business Development.
+- ❓ Ask me about anything related to business development.
   
 
 - ⚡ My daily fact and routine: Experience L🌏VER🏃, WHY NOT…✨.
